@@ -1,4 +1,4 @@
-# Analysis-and-Visualization-of-PISA-2012-Dataset
+# Analysis-and-Visualisation-of-PISA-2012-Dataset
 ## Dataset
 
 The PISA 2012 dataset consists of 636 columns with 485490 entries. From which 26 columns have been chosen for this analysis. The columns or variables I chose for the analysis were country, age, maths score, reading score, science score, cultural background of father, mother, self, learning time of maths, reading and science etc.
@@ -8,9 +8,9 @@ The PISA 2012 dataset consists of 636 columns with 485490 entries. From which 26
 
 First, I plotted the histogram of scores obtained in each individual subject. I found that a vast majority of students scored between 300 to 600 points in each subject, with a small number of students scored low between 100 to 300 points as well as scored high between 600 to 800.
 
-After analyzing this result, I was curious to know about which countries performed exceptionally well. I set the score above 800 for high achieving students and extracted their data along with their country of origin. I figured out that students mostly from Asian countries like China and Singapore performed exceptionally well with Singapore as the leader in excellency in all the three subjects.
+After analysing this result, I was curious to know about which countries performed exceptionally well. I set the score above 800 for high achieving students and extracted their data along with their country of origin. I figured out that students mostly from Asian countries like China and Singapore performed exceptionally well with Singapore as the leader in excellency in all the three subjects.
 
-In bivariate exploration, I analyzed how individual countries performed in each subject. From this analysis I found that Asian countries performed best in all the three subjects with China-Shanghai, Singapore and Hong Kong-China leading the test as the top scored countries. It can also be seen that the mean score obtained in all the three subjects by students of China-Shanghai deviated significantly from the rest of the list.
+In bivariate exploration, I analysed how individual countries performed in each subject. From this analysis I found that Asian countries performed best in all the three subjects with China-Shanghai, Singapore and Hong Kong-China leading the test as the top scored countries. It can also be seen that the mean score obtained in all the three subjects by students of China-Shanghai deviated significantly from the rest of the list.
 
 I explored the relationship between the scored obtained in each individual subject in multivariate analysis. A strong correlation between the score in all the three subjects have been found. 
 
