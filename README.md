@@ -1,4 +1,4 @@
-# Analysis-and-Visualisation-of-PISA-2012-Dataset
+# Analysis-and-Visualization-of-PISA-2012-Dataset
 ## Dataset
 
 The PISA 2012 dataset consists of 636 columns with 485490 entries. From which 26 columns have been chosen for this analysis. The columns or variables I chose for the analysis were country, age, maths score, reading score, science score, cultural background of father, mother, self, learning time of maths, reading and science etc.
